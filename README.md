@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello and welcome! 👋
 
-<!--
-**waldronmatt/waldronmatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Front-End Developer building the next redesign of [cigna.com](https://www.cigna.com/).
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Rewriting [cigna.com](https://www.cigna.com/) applications
+- ⚓ Expanding my knowledge of the [Lit Framework](https://lit.dev/)
+- 🙋 Helping and unblocking developers
+
+##### BIO
+
+- 🏢 I'm currently working at **Cigna**
+- ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.css`, `.html`
+- 💅 Developed:
+  - [Cigna's Supplemental Claim Form](https://www.cigna.com/individuals-families/member-resources/supplemental-health-claim-form)
+  - [A Module Federated Scaffold for Enterprise](https://dev.to/waldronmatt/tutorial-a-guide-to-module-federation-for-enterprise-n5)
+  - [A Static Site Generator](https://jamstack.org/generators/bowman/), etc...
+- 🌱 I'm currently learning all about **Web Components**
+- 💬 Ask me about **custom elements**, **design systems**, **build tooling**, **web forms**
+- 📫 How to reach me: [twitter.com/\_waldronmatt](https://twitter.com/_waldronmatt)
+- ⚡️ Fun fact: I play guitar and piano
+
+##### Links
+
+- 📝 [DevTo Blog](https://dev.to/waldronmatt)
+- 💻 [GitHub](https://github.com/waldronmatt)
+- 👨 [LinkedIn](https://www.linkedin.com/in/waldronmatt)
+- 📕 [Resume](https://www.waldronmatthew.com/static/docs/matthew_waldron_resume.pdf)
+- 💬 [Twitter](https://twitter.com/_waldronmatt)
