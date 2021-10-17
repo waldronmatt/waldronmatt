@@ -12,13 +12,12 @@
 
 - 🏢 I'm currently working at **Cigna**
 - ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.css`, `.html`
-- 💅 Developed:
+- 💾 Developed:
   - [Cigna's Supplemental Claim Form](https://www.cigna.com/individuals-families/member-resources/supplemental-health-claim-form)
-  - [A Module Federated Scaffold for Enterprise](https://dev.to/waldronmatt/tutorial-a-guide-to-module-federation-for-enterprise-n5)
+  - [A Module Federation Scaffold for Enterprise](https://dev.to/waldronmatt/tutorial-a-guide-to-module-federation-for-enterprise-n5)
   - [A Static Site Generator](https://jamstack.org/generators/bowman/), etc...
 - 🌱 I'm currently learning all about **Web Components**
 - 💬 Ask me about **custom elements**, **design systems**, **build tooling**, **web forms**
-- 📫 How to reach me: [twitter.com/\_waldronmatt](https://twitter.com/_waldronmatt)
 - ⚡️ Fun fact: I play guitar and piano
 
 ##### Links
