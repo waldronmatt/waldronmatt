@@ -1,26 +1,26 @@
-### Hello and welcome! 👋
+# Hello and welcome! 👋
 
-#### I'm a Front-End Developer building the next redesign of [cigna.com](https://www.cigna.com/).
+### I'm a Front-End Developer building the next redesign of [cigna.com](https://www.cigna.com/).
 
-##### NOW
+## Now
 
-- 🔧 Rewriting [cigna.com](https://www.cigna.com/) applications
+- 🔧 Developing web components for [cigna.com](https://www.cigna.com/)
 - ⚓ Expanding my knowledge of the [Lit Framework](https://lit.dev/)
 - 🙋 Helping and unblocking developers
 
-##### BIO
+## Bio
 
-- 🏢 I'm currently working at **Cigna**
+- 🏢 I'm currently working at **Evernorth**
 - ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.css`, `.html`
 - 💾 Developed:
   - [Cigna's Supplemental Claim Form](https://www.cigna.com/individuals-families/member-resources/supplemental-health-claim-form)
   - [A Module Federation Scaffold for Enterprise](https://dev.to/waldronmatt/tutorial-a-guide-to-module-federation-for-enterprise-n5)
   - [A Static Site Generator](https://jamstack.org/generators/bowman/), etc...
-- 🌱 I'm currently learning all about **Web Components**
-- 💬 Ask me about **custom elements**, **design systems**, **build tooling**, **web forms**
+- 🌱 I'm currently learning about software design patterns
+- 💬 Ask me about **web components**, **build tooling**, **web forms**
 - ⚡️ Fun fact: I play guitar and piano
 
-##### Links
+## Links
 
 - 📝 [DevTo Blog](https://dev.to/waldronmatt)
 - 💻 [GitHub](https://github.com/waldronmatt)
