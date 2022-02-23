@@ -24,6 +24,6 @@
 - 📝 [DevTo Blog](https://dev.to/waldronmatt)
 - 💻 [GitHub](https://github.com/waldronmatt)
 - 👨 [LinkedIn](https://www.linkedin.com/in/waldronmatt)
-- ✨ [Website](https://www.waldronmatthew.com)
 - 📕 [Resume](https://matthew-waldron-resume.netlify.app)
 - 💬 [Twitter](https://twitter.com/_waldronmatt)
+- ✨ [Website](https://www.waldronmatthew.com)
