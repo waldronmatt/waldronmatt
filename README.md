@@ -25,5 +25,6 @@
 - 💻 [GitHub](https://github.com/waldronmatt)
 - 👨 [LinkedIn](https://www.linkedin.com/in/waldronmatt)
 - 📕 [Resume](https://matthew-waldron-resume.netlify.app)
+- ☕ [Tip Jar](https://ko-fi.com/waldronmatt)
 - 💬 [Twitter](https://twitter.com/_waldronmatt)
 - ✨ [Website](https://www.waldronmatthew.com)
