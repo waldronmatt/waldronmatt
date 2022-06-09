@@ -10,7 +10,7 @@
 
 ## Bio
 
-- 🏢 I'm currently working at **Cigna** (now Evernorth)
+- 🏢 I'm currently working at **Cigna**
 - ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.css`, `.html`
 - 💾 Developed:
   - [Cigna's Supplemental Claim Form](https://www.cigna.com/individuals-families/member-resources/supplemental-health-claim-form)
