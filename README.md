@@ -13,10 +13,11 @@
 - 🏢 I'm currently working at **Cigna**
 - ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.css`, `.html`
 - 💾 Developed:
-  - [Cigna's Supplemental Claim Form](https://www.cigna.com/individuals-families/member-resources/supplemental-health-claim-form)
-  - [A Module Federation Scaffold for Enterprise](https://dev.to/waldronmatt/tutorial-a-guide-to-module-federation-for-enterprise-n5), etc...
-- 🌱 I'm currently learning about software design patterns
-- 💬 Ask me about **web components**, **build tooling**, **web forms**
+  - [Cigna's Supplemental Health Claim Form](https://www.cigna.com/individuals-families/member-resources/supplemental-health-claim-form)
+  - [Cigna's State Plan Finder](https://www.cigna.com/individuals-families/shop-plans/health-insurance-plans/index#ifp-picker)
+  - [Cigna's Search App](https://www.cigna.com/search?query=medicare#cigna)
+- 🌱 I'm currently learning about AWS and back-end development
+- 💬 Ask me about **web components**, **web forms**, **build tooling**
 - ⚡️ Fun fact: I play guitar and piano
 
 ## Links
