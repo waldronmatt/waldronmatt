@@ -1,6 +1,6 @@
 # Hello and welcome! 👋
 
-**I'm a Front-End Developer building the next [cigna.com](https://www.cigna.com/).**
+**I'm a front-end developer building the next [cigna.com](https://www.cigna.com/).**
 
 - 🏢 I'm currently working at **Cigna**
 - ⚙️ I use daily: `.ts`, `.js`, `.scss`, `.css`, `.html`
