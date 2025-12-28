@@ -4,11 +4,11 @@
 
 Here are some of my specialization areas:
 - ⚡ Web Performance
-- 🔍 Technical SEO
 - 🛡️ Privacy Engineering
-- 🔐 Application Security
+- 🔍 Technical SEO
 - 📈 Analytics & Tracking
-- 📡 Programmatic Advertising
-- ♿ Accessibility (a11y)
-- 🌍 Internationalization (i18n)
-- 🧩 Third-Party Governance & Integrations
+- 📡 Programmatic Advertising Systems
+- 🧩 Third-Party Script Governance & Integrations
+- 🔐 Securing Web Applications
+- ♿ Accessibility
+- 🌍 Internationalization
