@@ -1,3 +1,3 @@
 # Welcome 👋
 
-**I'm a Principal Engineer architecting compliance and revenue-supporting systems at [forbes.com](https://www.forbes.com).**
+**I'm a Principal Engineer leading Privacy Engineering and Platform Health at [forbes.com](https://www.forbes.com).**
